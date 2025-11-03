@@ -1,6 +1,7 @@
 # Fruit & Vegetable Leaf Disease Detection System (Streamlit + TensorFlow)
 
-🔗 **Live Demo:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fruit-and-leaf-disease-detection-system-b5eerpcj6acy5qk5bcqlev.streamlit.app/)
+🔗 **Live Demo:** 
+                  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fruit-and-leaf-disease-detection-system-b5eerpcj6acy5qk5bcqlev.streamlit.app/)
 
 Interactive Streamlit app that classifies fruit/vegetable leaf diseases from images using a TensorFlow/Keras CNN, and suggests pesticide guidance per disease class.
 
