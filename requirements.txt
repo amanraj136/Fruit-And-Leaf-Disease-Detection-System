@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+matplotlib
+pandas
+numpy
+seaborn
+pillow
+time
