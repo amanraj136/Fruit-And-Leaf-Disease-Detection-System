@@ -6,7 +6,7 @@
 Interactive Streamlit app that classifies fruit/vegetable leaf diseases from images using a TensorFlow/Keras CNN, and suggests pesticide guidance per disease class.
 
 ## Overview
-- Upload a leaf image (JPG/PNG) and get the predicted disease class among 28 categories across Apple, Corn, Grape, Orange, Potato, Sugarcane, and Tomato.
+- Upload a leaf image (JPG/PNG) and get the predicted disease class among 28 categories i.e (7 Types X 4 classes of each type = 28 categories) across Apple, Corn, Grape, Orange, Potato, Sugarcane, and Tomato.
 - Backend: TensorFlow model loaded once for fast inference; preprocessing uses PIL and resizing to 128×128.
 - Frontend: Streamlit with simple navigation (Home, Leaf Disease Recognition, About).
 
